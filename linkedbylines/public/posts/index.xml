@@ -2,11 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 14:43:20 +0800</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpost</title>
+      <link>https://example.org/posts/testpost/</link>
+      <pubDate>Fri, 29 Nov 2024 14:43:20 +0800</pubDate>
+      <guid>https://example.org/posts/testpost/</guid>
+      <description>&lt;h1 id=&#34;hi-nice&#34;&gt;Hi, nice&lt;/h1&gt;
+&lt;p&gt;What is even going on?&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
