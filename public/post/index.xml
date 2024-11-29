@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Linked by Lines</title>
-    <link>http://localhost:64790/post/</link>
+    <link>https://example.org/post/</link>
     <description>Recent content in Posts on Linked by Lines</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Nov 2024 21:20:12 +0800</lastBuildDate>
-    <atom:link href="http://localhost:64790/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Steps in a Huge World</title>
-      <link>http://localhost:64790/post/first-steps/</link>
+      <link>https://example.org/post/first-steps/</link>
       <pubDate>Fri, 29 Nov 2024 21:20:12 +0800</pubDate>
-      <guid>http://localhost:64790/post/first-steps/</guid>
+      <guid>https://example.org/post/first-steps/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is not a blog.&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;what-is-this-collection-of-articles-purpose&#34;&gt;What is this collection of articles’ purpose?&lt;/h3&gt;
 &lt;ul&gt;
@@ -46,9 +46,9 @@
     </item>
     <item>
       <title>Hello World</title>
-      <link>http://localhost:64790/post/hello-world/</link>
+      <link>https://example.org/post/hello-world/</link>
       <pubDate>Fri, 29 Nov 2024 20:44:12 +0800</pubDate>
-      <guid>http://localhost:64790/post/hello-world/</guid>
+      <guid>https://example.org/post/hello-world/</guid>
       <description>&lt;h1 id=&#34;hi-everyone&#34;&gt;Hi Everyone&lt;/h1&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; test test file.
 This is another line right below.&lt;/p&gt;
