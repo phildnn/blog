@@ -1,0 +1,10 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Linked by Lines'
+theme = 'PaperMod'
+
+[params]
+    ShowBreadCrumbs = "true"
+      [params.homeInfoParams]
+        Title = "Notes on my Thoughts, Linked by Lines"
+        Content = "Welcome to my tiny collection of thoughts, summaries and notes."

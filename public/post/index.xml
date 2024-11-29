@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Linked by Lines</title>
+    <link>http://localhost:64790/post/</link>
+    <description>Recent content in Posts on Linked by Lines</description>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2024 21:20:12 +0800</lastBuildDate>
+    <atom:link href="http://localhost:64790/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Steps in a Huge World</title>
+      <link>http://localhost:64790/post/first-steps/</link>
+      <pubDate>Fri, 29 Nov 2024 21:20:12 +0800</pubDate>
+      <guid>http://localhost:64790/post/first-steps/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This is not a blog.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;what-is-this-collection-of-articles-purpose&#34;&gt;What is this collection of articles’ purpose?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Not a blog → no opinion pieces or politics&lt;/li&gt;
+&lt;li&gt;Instead: I realized, that I learn better, if I have a structure and create output
+&lt;ul&gt;
+&lt;li&gt;“Writing To Learn” by William Zinssner&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Currently: Learning is merely a university duty and I am subject to a crowding-out effect (almost no intrinsic motivation to do research, learn and dig into fields I find exciting). I am currently a final-year undergrad and I always enjoyed learning so I want to bring the joy in it back&lt;/li&gt;
+&lt;li&gt;Additionally: Internships in finance also crowded out → you learn concepts to get through rounds of interviews that all ask the same questions and often times don’t fully understand things. I want to apply the concepts, try to understand more, etc&lt;/li&gt;
+&lt;li&gt;So these are rather summaries of my learning process, as I want to shift towards a more sustainable way of consuming and summarizing content&lt;/li&gt;
+&lt;li&gt;I want to change my style or learning and doing personal research now and create a streamlined process from consumption to output.&lt;/li&gt;
+&lt;li&gt;My working style will be based on the “Zettelkasten Method”
+&lt;ul&gt;
+&lt;li&gt;Established by Niklas Luhmann, extremely output-driven social scientist who happens to be from the same small town in Germany as me and even went to the same high school about a hundret years ago → ended up in Harvard&lt;/li&gt;
+&lt;li&gt;Basic Idea: Summarizing content pieces, identifying key concepts across works in order to see connections between different fields&lt;/li&gt;
+&lt;li&gt;I find it to be very exciting, as it removes the typial “borders” that we tend to draw between subjects. More information on the method is publicly available, I recommend reading up on it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;As my results and summaries might be helpful for others, I decided to share them here. In case you want to request any pieces of work or are interested in my collection of notes, please reach out via mail or linkedin!&lt;/li&gt;
+&lt;li&gt;Please not, nothing up here is meant to be used for scientific work. This is my space of personal learning &amp;amp; growth that I decided to share. However, if you want to discuss things or make additions to one of my articles, please reach out! Looking forward to it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-aspects-of-it-for-the-nerds-who-are-interested-in-it&#34;&gt;Technical aspects of it (for the nerds who are interested in it)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;As I mentioned, I am using the Zettelkasten method to keep key concepts and gather ideas / inspirations for output pieces&lt;/li&gt;
+&lt;li&gt;There are many great digital tools to use for that. I choose Obisidian, as it is open-source, markdown based and easily adaptable to anyone’s needs.&lt;/li&gt;
+&lt;li&gt;I am not sure if I am going to write pieces in Notion, Word, or Obsidian. But no matter my choice, the output should probably be markdown-based (an easy-to-learn, visual language to format pages, more about it can be found here).&lt;/li&gt;
+&lt;li&gt;I have not touched VSCode in years, so I will use the easiest method I can find to host a simple CMS based on markdown files. Easy to write, read, etc.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:64790/post/hello-world/</link>
+      <pubDate>Fri, 29 Nov 2024 20:44:12 +0800</pubDate>
+      <guid>http://localhost:64790/post/hello-world/</guid>
+      <description>&lt;h1 id=&#34;hi-everyone&#34;&gt;Hi Everyone&lt;/h1&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; test test file.
+This is another line right below.&lt;/p&gt;
+&lt;p&gt;This does not do anything.
+What do we learn? We need one empty line space between, in order to render paragraphs seperately!&lt;/p&gt;
+&lt;p&gt;This is the third one!&lt;/p&gt;
+&lt;h2 id=&#34;h2-this-is-a-h2&#34;&gt;H2 This is a H2&lt;/h2&gt;
+&lt;p&gt;This is random text&lt;/p&gt;
+&lt;h3 id=&#34;h3-this-is-a-h3&#34;&gt;H3 This is a H3&lt;/h3&gt;
+&lt;p&gt;This is even more random text&lt;/p&gt;
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
